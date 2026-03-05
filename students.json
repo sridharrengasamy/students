@@ -2,19 +2,19 @@
    "media":[
       {
          "type":"image",
-         "url":"https://raw.githubusercontent.com/sridharrengasamy/students/main/st1.jpeg"
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_students/main/st1.jpeg"
       },
       {
          "type":"image",
-         "url":"https://raw.githubusercontent.com/sridharrengasamy/students/main/st2.jpeg"
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_students/main/st2.jpeg"
       },
       {
          "type":"video",
-         "url":"https://raw.githubusercontent.com/sridharrengasamy/students/main/video1.mp4"
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_students/main/video1.mp4"
       },
       {
          "type":"pdf",
-         "url":"https://raw.githubusercontent.com/sridharrengasamy/students/main/file1.pdf"
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_students/main/file1.pdf"
       },
       
    
@@ -23,4 +23,5 @@
          "Id":"R4P2UTgYebg"
        }
    ]
+
  }
